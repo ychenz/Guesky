@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.guesky.android.UserProfile" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/user_profile_logout"
+        android:onClick="logout"
+        app:showAsAction="never"/>
+
+</menu>
+<!-- From: file:/home/tina/workplace/Guesky/guesky/src/main/res/menu/user_profile.xml -->

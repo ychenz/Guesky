@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.Android.com/apk/res-auto">
+    
+	<item
+        android:id="@+id/list"
+        android:icon="@drawable/main_menu_list"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    
+</menu>
+<!-- From: file:/home/tina/workplace/Guesky/guesky/src/main/res/menu/actionbar_menu.xml -->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guesky</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- splash screen -->
+    <string name="splash_text">Guesky</string>
+
+    <!-- LoginActivity screen -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="reset_pw_btn">Cannot Login</string>
+    <string name="signup_btn">Sign up Now!</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+
+    <!-- userProfile screen -->
+    <string name="user_profile_logout">Logout</string>
+
+    <!-- First login screen -->
+    <string name="start">start</string>
+    
+    <!-- SignupActivity Screen -->
+    <!-- email password using what on loginscreen -->
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="register_btn">Sign up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">Username</string>
+    
+
+</resources>

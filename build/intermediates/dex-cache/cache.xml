@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tina/workplace/Guesky/guesky/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/classes-e6d550015ccab5c600cf9d305d3bce7634c9cc27.jar" />
+    </item>
+    <item
+        jar="/home/tina/workplace/Guesky/guesky/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/classes-51006226e52b5370b17bc6082b40dd7172f33714.jar" />
+    </item>
+    <item
+        jar="/home/tina/workplace/Guesky/guesky/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6fc4c7067459e8d69e1bbcb3a8973cdd84d5d87b">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-3c2297fbe3b2c9bdb5c4fb118249c0ca1a3232b3.jar" />
+    </item>
+    <item
+        jar="/home/tina/workplace/Guesky/guesky/libs/asmack-android-8-4.0.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8451d8474c803b6ec1748b09b6866fee84ff4f66">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/asmack-android-8-4.0.7-1e092cf15ff19b4c896b0977cfe48d0942cfaf41.jar" />
+    </item>
+    <item
+        jar="/home/tina/workplace/Guesky/guesky/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e47268e271ff279aca3dfdd62587b8c90b6da14">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/classes-76bfb67bc50b88481b6f73985ee37bbff0d0f141.jar" />
+    </item>
+    <item
+        jar="/home/tina/workplace/Guesky/guesky/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c4caf832116bca1f2e140bf1fb600e2edd190837">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/classes-6e923ba8d7fbf10b3dfe4e2cfc5dce3613229b99.jar" />
+    </item>
+    <item
+        jar="/home/tina/workplace/Guesky/guesky/libs/dnsjava-2.1.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="441ce0c012497bf338147c8853365f955f51b9bd">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/dnsjava-2.1.7-522fa2bffa309f14ff5b17abae627b825eeb4b73.jar" />
+    </item>
+    <item
+        jar="/home/tina/workplace/Guesky/guesky/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-ae3b12b65518cb38fe61fd277209e34b94a8ba78.jar" />
+    </item>
+    <item
+        jar="/home/tina/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-631ba42ae75856c3abf35566a16de21d1e2b0d5c.jar" />
+    </item>
+    <item
+        jar="/home/tina/workplace/Guesky/guesky/build/intermediates/exploded-aar/Guesky/recyclerview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6d180483f0ef4f17dafc52b9962ceb9f5fd50ad5">
+        <dex dex="/home/tina/workplace/Guesky/guesky/build/intermediates/pre-dexed/debug/classes-3bed3bd030faa83a3d19c9fc28c7cdf2f7af493b.jar" />
+    </item>
+
+</items>
